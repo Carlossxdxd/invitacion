@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Era obvio, ya sabia')
+    alert('Mandalo por messenger :), Graciass')
 });
 
 const noBtn = document.querySelector('#noBtn');
